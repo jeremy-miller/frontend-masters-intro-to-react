@@ -1,2 +1,3 @@
-# frontend-masters-intro-to-react
-Code for the Frontend Masters "Introduction to React" course
+# Intro to React
+
+Code for the Frontend Masters [Introduction to React](https://frontendmasters.com/courses/complete-react-v9/) course.
