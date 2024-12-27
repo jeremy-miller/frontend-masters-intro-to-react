@@ -1,6 +1,6 @@
 import { useDebugValue, useEffect, useState } from "react";
 
-export function usePizzaOfTheDay() {
+export default function usePizzaOfTheDay() {
   const [pizzaOfTheDay, setPizzaOfTheDay] = useState(null);
 
   // hint to dev tools about state
